@@ -36,8 +36,7 @@ def ejecutarProceso():
  			rc3[i] = 0
 	time.sleep(0.1)
 
-	#DatosCargador = rc1 + rc2 + rc3
-        #print("voltaje bat :" + srt(r3.registers[6]))
+	#print("voltaje bat :" + srt(r3.registers[6]))
         #print r3.registers[5]
 	#print DatosCargador
 	##################################################################################################################
